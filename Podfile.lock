@@ -1,0 +1,10 @@
+PODS:
+  - CBStoreHouseRefreshControl (1.0)
+
+DEPENDENCIES:
+  - CBStoreHouseRefreshControl (~> 1.0)
+
+SPEC CHECKSUMS:
+  CBStoreHouseRefreshControl: a814bd725e74ff4c1e8dd96eb02358199b0da04f
+
+COCOAPODS: 0.33.1
